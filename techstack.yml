@@ -2,7 +2,7 @@ repo_name: novuhq/nestjs-quickstart
 report_id: 0db133e1b5ed14ef359a82866a8b5ac8
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:23:08+00:00'
+timestamp: '2024-02-29T18:06:18+00:00'
 requested_by: michaldziuba03
 provider: github
 branch: main
@@ -124,7 +124,7 @@ tools:
   last_updated_by: Michał Dziuba
   last_updated_on: 2023-07-06 20:29:17.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.8
   license: MIT
@@ -138,7 +138,7 @@ tools:
   last_updated_by: Michał Dziuba
   last_updated_on: 2023-08-07 11:42:26.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.3
   license: MIT
